@@ -1,5 +1,5 @@
-[![Wiki contributors](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer-wiki.svg?label=wiki%20contributors)](https://github.com/GhostWriters/DockSTARTer-wiki/graphs/contributors)
-[![GitHub contributors](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer.svg?label=code%20contributors)](https://github.com/GhostWriters/DockSTARTer/graphs/contributors)
+[![Technical Writers](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer-wiki.svg?label=wiki%20contributors)](https://github.com/GhostWriters/DockSTARTer-wiki/graphs/contributors)
+[![Developers](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer.svg?label=code%20contributors)](https://github.com/GhostWriters/DockSTARTer/graphs/contributors)
 
 [How to Migrate to DS](Migration.md)
 
