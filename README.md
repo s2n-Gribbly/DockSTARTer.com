@@ -1,6 +1,6 @@
 ![DockSTARTer Logo](logo.png)
 
-Welcome to the new and improved DockSTARTer Wiki page!
+## Welcome to the new and improved DockSTARTer Wiki page!
 
 [![Wiki contributors](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer-wiki.svg?label=wiki%20contributors)](https://github.com/GhostWriters/DockSTARTer-wiki/graphs/contributors)
 [![GitHub contributors](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer.svg?label=code%20contributors)](https://github.com/GhostWriters/DockSTARTer/graphs/contributors)
