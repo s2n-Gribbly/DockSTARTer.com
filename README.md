@@ -9,20 +9,20 @@ Welcome to the new and improved DockSTARTer Wiki page!
 
 **Application Specifics**
 * [AirDCpp](AirDCpp.md)
-* [[ddclient]]
-* [[DelugeVPN]]
-* [[Duplicati]]
-* [[Home Assistant]]
-* [[Let's Encrypt (Certbot)]]
-* [[Logarr]]
-* [[Netdata]]
-* [[NextCloud]]
-* [[Ouroboros]]
-* [[Pi‐hole]]
-* [[Plex]]
-* [[Portainer]]
-* [[Samba]]
-* [[Watchtower]]
+* [ddclient](ddclient.md)
+* [DelugeVPN](DelugeVPN.md)
+* [Duplicati](Duplicati.md)
+* [Home Assistant](Home-Assistant.md)
+* [Let's Encrypt - Certbot](LECerbot.md)
+* [Logarr](Logarr.md)
+* [Netdata](Netdata.md)
+* [NextCloud](NextCloud.md)
+* [Ouroboros](Ouroboros.md)
+* [Pi‐hole](Pi-hole.md)
+* [Plex](Plex.md)
+* [Portainer](Portainer.md)
+* [Samba](Samba.md)
+* [Watchtower](Watchtower.md)
 
 **Various Topics**
 * [[SMB Mounting]]
