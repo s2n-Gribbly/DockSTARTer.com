@@ -3,9 +3,9 @@ Welcome to the new and improved DockSTARTer Wiki page!
 [![Wiki contributors](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer-wiki.svg?label=wiki%20contributors)](https://github.com/GhostWriters/DockSTARTer-wiki/graphs/contributors)
 [![GitHub contributors](https://img.shields.io/github/contributors/GhostWriters/DockSTARTer.svg?label=code%20contributors)](https://github.com/GhostWriters/DockSTARTer/graphs/contributors)
 
-[How to Migrate to DS](https://github.com/GhostWriters/DockSTARTer/wiki/Migration)
+[How to Migrate to DS](Migration.md)
 
-[[Frequently Asked Questions]]
+[Frequently Asked Questions](Frequently-Asked-Questions.md)
 
 **Application Specifics**
 * [AirDCpp](AirDCpp.md)
@@ -25,21 +25,25 @@ Welcome to the new and improved DockSTARTer Wiki page!
 * [Watchtower](Watchtower.md)
 
 **Various Topics**
-* [[SMB Mounting]]
-* [[VPN Information]]
+* [SMB Mounting](SMB-Mounting.md)
+* [VPN Information](VPN-Information.md)
 
 **Videos/Walkthroughs**
 * [Video - Getting Started](https://www.youtube.com/watch?v=6pkbS07CAnU)
 
 **Other Pages**
-* [[Advanced Usage]]
-* [[Available Applications]]
-* [[Backups]]
-* [[Overrides]]
-* [[Setting Up a Domain]]
-* [[Technical Info]]
+* [Advanced Usage](Advanced-Usage.md)
+* [Available Applications](Available-Applications.md)
+* [Backups](Backups.md)
+* [Setting Up a Domain](Setting-Up-a-Domain.md)
+* [Technical Info](Technical-Info.md)
+
+**Overrides**
+* [General Override Format](Overrides.md)
 
 
+
+**OLD CONTENT TO BE DELETED**
 
 You can use the [editor on GitHub](https://github.com/GhostWriters/DockSTARTer-wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
