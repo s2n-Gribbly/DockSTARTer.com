@@ -1,5 +1,4 @@
 ![DockSTARTer Logo](logo.png)
-Format: ![Alt Text](url)
 
 Welcome to the new and improved DockSTARTer Wiki page!
 
