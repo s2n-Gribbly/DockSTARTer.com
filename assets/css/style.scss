@@ -1,6 +1,7 @@
  ---
  ---
-body {
-  background-color: lightblue;
-}
+
 @import "{{ site.theme }}";
+body {
+  background-color: gray;
+}
