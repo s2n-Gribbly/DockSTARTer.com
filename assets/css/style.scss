@@ -1,5 +1,5 @@
  ---
  ---
-#header_wrap .outer { background: #fff; }
-@import "{{ site.theme }}";
 
+@import "{{ site.theme }}";
+#header_wrap {background: #fff;}
