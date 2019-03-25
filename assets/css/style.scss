@@ -2,6 +2,15 @@
 ---
 @import "jekyll-theme-slate";
 
+#header_wrap {
+  background: #212121;
+  background: -moz-linear-gradient(top, #E9C26E, #0000FF);
+  background: -webkit-linear-gradient(top, #E9C26E, #0000FF);
+  background: -ms-linear-gradient(top, #E9C26E, #0000FF);
+  background: -o-linear-gradient(top, #E9C26E, #0000FF);
+  background: linear-gradient(to top, #E9C26E, #0000FF);
+}
+
 img {
   position: relative;
   left: 30px;
