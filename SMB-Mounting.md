@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Linux Host
 Create a file called `.credentials` or the like in your home folder. In this folder, you're going to put this:
 ```

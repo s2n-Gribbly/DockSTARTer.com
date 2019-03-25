@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Assuming you already followed the installation steps in the readme, there are also a number of command line switches you can use with DockSTARTer.
 
 ## Command Line Switches
@@ -45,8 +49,8 @@ cp .env.example .env
 ```
 Edit the file using something like `nano .env` (ctrl+x will prompt to save and exit the nano editor)
 
-#### Universal Section 
-You will need to fill out all of variables in the top most **Universal** section. 
+#### Universal Section
+You will need to fill out all of variables in the top most **Universal** section.
 
 You can find your **PUID** by running `id -u ${USER}`.
 

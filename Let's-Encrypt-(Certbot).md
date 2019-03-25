@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## General Setup
 Out of the box, the LetsEncrypt container provided performs both certificate renewals and reverse proxy functions. More on this container can be found [here](https://hub.docker.com/r/linuxserver/letsencrypt/).
 
