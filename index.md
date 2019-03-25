@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## General
-- How to Migrate to DockSTARTer](Migration.md)
+- [How to Migrate to DockSTARTer](Migration.md)
 - [Frequently Asked Questions](FAQ.md)
 
 ## Application Specifics
