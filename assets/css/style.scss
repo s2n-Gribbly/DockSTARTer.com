@@ -6,8 +6,9 @@
 }
 
 img {
-   position: relative;
-   left: 30px;
+   position: fixed;
+   bottom: 0;
+   right: 0;
    margin: 0 auto;
    max-width: 739px;
    padding: 0px 75px 0px 0px;
