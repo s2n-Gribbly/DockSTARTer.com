@@ -36,4 +36,4 @@ layout: default
 - [Backups](Backups.md)
 - [Overrides](Overrides.md)
 - [Setting up a domain](Setting=Up-a-Domain.md)
-- [AirDCpp](Technical-Info.md)
+- [Technical Info](Technical-Info.md)
