@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Advanced Settings
 
 
@@ -22,7 +26,7 @@ services:
     container_name:  sonarr
     restart:         always
     environment:
-      - PGID=${PGID} 
+      - PGID=${PGID}
       - PUID=${PUID}
       - TZ=${TZ}
     volumes:
@@ -33,12 +37,12 @@ services:
 
 In the example above,
 
-**image** is the Container that you're using but also the quasi URL Docker will attempt to pull it from. 
+**image** is the Container that you're using but also the quasi URL Docker will attempt to pull it from.
 
 **container_name** is the human readable name Docker will use to describe it.
 
 ### Volumes
-During the Getting Started section, you set **volumes** for your configuration, download and media etc in the`GLOBAL` section. 
+During the Getting Started section, you set **volumes** for your configuration, download and media etc in the`GLOBAL` section.
 
 The path to Sonarr's config in the above example, broken up, is `${DOCKERCONFDIR}/sonarr` then the deliminator `:` followed by `/config`
 
@@ -80,6 +84,6 @@ The ports for access to (and from) your apps are manipulated in your `.env`ironm
 
 `SONARR_PORT_8989=6969`
 
-If you were to edit the `.env` for sonarr to the above, and run the generator again, you would then access Sonarr at `http://app.address:6969/calendar` instead of the default port, 8989. 
+If you were to edit the `.env` for sonarr to the above, and run the generator again, you would then access Sonarr at `http://app.address:6969/calendar` instead of the default port, 8989.
 
- * **Do not change your apps internal ports unless you know what you are doing.** For instance, if you change Sonarr's internal port to 4545, it will still listen on 8989 by default. So then, you won't be able to access the WebGUI and without that, I don't even know where to begin changing the port in Sonarr's config files. And unless you want to run Transmission and RuTorrent side by side, I can't think of a good reason to change them in `.env` either. 
+ * **Do not change your apps internal ports unless you know what you are doing.** For instance, if you change Sonarr's internal port to 4545, it will still listen on 8989 by default. So then, you won't be able to access the WebGUI and without that, I don't even know where to begin changing the port in Sonarr's config files. And unless you want to run Transmission and RuTorrent side by side, I can't think of a good reason to change them in `.env` either.

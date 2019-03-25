@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Plex is telling me to login and then not directing me to the server I just set up, why?
 Upon starting up Plex for the first time, it's very likely you'll need to follow these steps:
 > **NOTE - You have 5 minutes from the time you generate your Claim Token to get Plex back up and running, so you may need to work fast!)**

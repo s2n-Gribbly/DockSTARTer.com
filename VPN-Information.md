@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## What VPN Services are available to use through DockSTARTer?
 At the moment VPN is only available where we have found a easily configured container that runs as its own self contained unit. TransmissionVPN, SabNzbDVPN, DelugeVPN & rTorrentVPN are currently available.
 
@@ -19,7 +23,7 @@ sudo reboot
 ### What if I want to use a VPN for _everything_?
 If you require VPN on all connections it is recommended to install OpenVPN as you normally would ( in /etc/openvpn etc etc) and then having the Docker service started and stopped by the up / down scripts.
 
-You can disable auto starting of the containers by disabling the docker service. On Ubuntu, I used 
+You can disable auto starting of the containers by disabling the docker service. On Ubuntu, I used
 
 `sudo systemctl disable docker`
 
@@ -33,7 +37,7 @@ else
     /etc/init.d/docker start
 fi
 ```
-and Down - 
+and Down -
 ```
 #!/bin/bash
 if [[ -L "/sbin/init" ]]; then
@@ -53,7 +57,7 @@ sudo ds -c
 
 ## PIA with Transmission
 For PIA VPN Configuration:
-These pages come in handy - 
+These pages come in handy -
 * https://github.com/haugene/docker-transmission-openvpn/blob/master/README.md#network-configuration-options
 
 If you run into slow VPN issues, it may be the container is using a default .ovpn config. So you'd use something like this in a [Override](https://github.com/GhostWriters/DockSTARTer/wiki/Overrides): `OPENVPN_CONFIG=UK Southampton` depending on your region/location.

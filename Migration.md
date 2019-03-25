@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Migrating from local installs
 
 - Stop the service for the existing app (so that ports are available)

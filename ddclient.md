@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Edit the included config to uncomment this line:
 ```
 use=web, web=checkip.dyndns.org/, web-skip='IP Address' # found after IP Address

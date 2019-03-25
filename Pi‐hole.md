@@ -1,4 +1,8 @@
-Pi-hole takes over the local DNS service and may conflict with existing DNS services on your server. Ubuntu 18.04 currently uses systemd-resolv to server DNS and needs to be configured to either give up port 53 or be disabled. 
+---
+layout: default
+---
+
+Pi-hole takes over the local DNS service and may conflict with existing DNS services on your server. Ubuntu 18.04 currently uses systemd-resolv to server DNS and needs to be configured to either give up port 53 or be disabled.
 
 ## Netplan setup
 
@@ -6,7 +10,7 @@ On Ubuntu 18.04 and newer you will have `netplan` controlling your network and s
 
 ## Resolvconf
 
-On Ubuntu 18.04, resolveconf was removed as the default means to control DNS.  In addition to the settings mentioned regarding netplan, we recommend setting up resolvconf. 
+On Ubuntu 18.04, resolveconf was removed as the default means to control DNS.  In addition to the settings mentioned regarding netplan, we recommend setting up resolvconf.
 
 To install run `sudo apt install resolvconf`
 

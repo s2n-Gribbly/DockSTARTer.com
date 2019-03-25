@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## What Is DockSTARTer ?
 DockSTARTer is a program that starts a bunch of different containers within a common framework to make it easy to install all your favorite apps and tools.
 
@@ -14,7 +18,7 @@ Have you considered a Virtual Machine? Windows 8.1 has VM support built in. This
 [Read this guide here](https://www.windowscentral.com/how-run-linux-distros-windows-10-using-hyper-v) to get up and running with Linux essentially running as a app within Windows. Just remember to get the server ISO, Linux is generally pretty lean but an idle fresh install of Ubuntu (server) uses less than 200mb of memory and about 5gb minimum storage.
 
 ## Ouroboros and Portainer: I didn't select them but they installed anyway?
-They are installed by default and the below blurbs from their official documentation should explain why but you can disable either or both of them if you want. 
+They are installed by default and the below blurbs from their official documentation should explain why but you can disable either or both of them if you want.
 
 > [Ouroboros](https://hub.docker.com/r/pyouroboros/ouroboros/) will monitor (all or specified) running docker containers and update them to the (latest or tagged) available image in the remote registry.
 
