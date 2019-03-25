@@ -5,6 +5,8 @@ layout: default
 ## General
 - [How to Migrate to DockSTARTer](Migration.md)
 - [Frequently Asked Questions](FAQ.md)
+- [SMB Mounting](SMB-Mounting.md)
+- [VPN Information](VPN Information.md)
 
 ## Application Specifics
 - [AirDCpp](AirDCpp.md)
@@ -22,10 +24,6 @@ layout: default
 - [Portainer](Portainer.md)
 - [Samba](Samba.md)
 - [Watchtower](Watchtower.md)
-
-## Various Topics
-- [SMB Mounting](SMB-Mounting.md)
-- [VPN Information](VPN Information.md)
 
 ## Videos/Walkthroughs
 - [Getting Started](https://www.youtube.com/watch?v=6pkbS07CAnU)
