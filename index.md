@@ -6,7 +6,7 @@ layout: default
 - [How to Migrate to DockSTARTer](Migration.md)
 - [Frequently Asked Questions](FAQ.md)
 - [SMB Mounting](SMB-Mounting.md)
-- [VPN Information](VPN Information.md)
+- [VPN Information](VPN-Information.md)
 
 ## Application Specifics
 - [AirDCpp](AirDCpp.md)
@@ -33,5 +33,5 @@ layout: default
 - [Available Applications](Available-Applications.md)
 - [Backups](Backups.md)
 - [Overrides](Overrides.md)
-- [Setting up a domain](Setting=Up-a-Domain.md)
+- [Setting up a domain](Setting-Up-a-Domain.md)
 - [Technical Info](Technical-Info.md)
