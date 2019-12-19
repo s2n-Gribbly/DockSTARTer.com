@@ -1,5 +1,6 @@
-# FreshRSS
+# Freshrss
 
-[FreshRSS](https://freshrss.org/) is a free, self-hostable aggregator for rss feeds.
+Description sentence(s).
 
-The GIT Repository for FreshRSS is located at [https://github.com/linuxserver/docker-freshrss](https://github.com/linuxserver/docker-freshrss).
+- App: [[Website](https://freshrss.org/)] [[App Source](https://github.com/linuxserver/docker-freshrss)]
+- Docker Image: [[Docker Hub](https://hub.docker.com/)] [[Image Source](https://hub.docker.com/r/linuxserver/freshrss/builds/bqskwa3fmt22hhbhuhnw9mn/)]

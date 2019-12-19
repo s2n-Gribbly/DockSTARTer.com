@@ -1,10 +1,9 @@
 # Logarr
 
-Logarr is a Self-hosted, single-page, log consolidation tool written in PHP
+Description sentence(s).
 
-The GIT Repository for Logarr is located at [https://github.com/Monitorr/logarr](https://github.com/Monitorr/logarr).
-
-## Logarr Configuration
+- App: [[Website](https://github.com/Monitorr)] [[App Source](https://github.com/Monitorr/logarr)]
+- Docker Image: [[Docker Hub](https://hub.docker.com/)] [[Image Source](https://hub.docker.com/r/monitorr/logarr-alpha/)]
 
 Logarr configuration has sharing to the logs enabled by default. From within the Logarr container, this is accessible via the `/var/log/logarrlogs` path. Which is mapped to your `~/.config/appdata` path of your host machine.
 

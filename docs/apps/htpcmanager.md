@@ -1,5 +1,6 @@
-# HTPC Manager
+# HTPCManger 
 
-[HTPC Manager](https://github.com/Hellowlol/HTPC-Manager) is python based web application to manage the software on your HTPC. HTPC Manager combines all your favorite software into one slick interface.
+Htpcmanager is a front end for many htpc related applications.
 
-The GIT Repository for HTPC Manager is located at [https://github.com/linuxserver/docker-htpcmanager](https://github.com/linuxserver/docker-htpcmanager).
+- App: [[Website](https://docs.linuxserver.io/images/docker-htpcmanager)] [[App Source](https://github.com/Hellowlol/HTPC-Manager)]
+- Docker Image: [[Docker Hub](https://hub.docker.com/)] [[Image Source](https://hub.docker.com/r/linuxserver/htpcmanager/)]

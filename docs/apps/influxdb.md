@@ -1,5 +1,6 @@
 # InfluxDB
 
-[InfluxDB](https://www.influxdata.com/) is an open source time series platform. This includes APIs for storing and querying data, processing it in the background for ETL or monitoring and alerting purposes, user dashboards, and visualizing and exploring the data and more.
+InfluxDB is an open-source time series database developed by InfluxData. It is written in Go and optimized for fast, high-availability storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics.
 
-The GIT Repository for InfluxDB is located at [https://github.com/influxdata/influxdb](https://github.com/influxdata/influxdb).
+- App: [[Website](https://www.influxdata.com/)] [[App Source](https://github.com/influxdata/influxdb)]
+- Docker Image: [[Docker Hub](https://hub.docker.com/)] [[Image Source](https://hub.docker.com/_/influxdb)]

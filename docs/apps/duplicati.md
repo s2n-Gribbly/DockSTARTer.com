@@ -1,10 +1,11 @@
 # Duplicati
 
-[Duplicati](https://www.duplicati.com/) is a backup software solution to store encrypted backups online and works with standard protocols like FTP, SSH, WebDAV as well as popular services like Microsoft OneDrive, Amazon Cloud Drive & S3, Google Drive, box.com, Mega, hubiC and many others.
+Duplicati is a backup client that securely stores encrypted, incremental, compressed remote backups of local files on cloud storage services and remote file servers.
 
-The GIT Repository for Duplicati is located at [https://github.com/linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati).
+It works with standard protocols like FTP, SSH, WebDAV as well as popular services like Microsoft OneDrive, Amazon Cloud Drive & S3, Google Drive, box.com, Mega, hubiC and many others.
 
-## Duplicati Installation
+- App: [[Website](https://www.duplicati.com/)] [[App Source](https://github.com/linuxserver/docker-duplicati)]
+- Docker Image: [[Docker Hub](https://hub.docker.com/)] [[Image Source](https://hub.docker.com/r/linuxserver/duplicati/)]
 
 If you install Duplicati, you may be wondering what the important folders and files are to backup in case something goes wrong and you want to restore and be back up and running within minutes. Everything regarding DockSTARTer is found in /source like below (You can exclude .git and .github):
 
